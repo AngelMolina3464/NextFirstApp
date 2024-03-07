@@ -1,0 +1,19 @@
+
+body{
+    background-color: rgb(15, 15, 15);
+}
+h1, h2, h3, h4, h5{
+    color:  rgb(10, 228, 199);
+}
+
+a , ul, ol{
+    color: rgb(0, 194, 136);
+}
+
+p{
+    color: rgb(203, 243, 243);
+}
+
+label{
+    color: rgb(110, 212, 182);
+}
